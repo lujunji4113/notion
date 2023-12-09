@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Cloudscape",
+    "description": "一个 React 组件库，专为云产品设计的。",
+    "keywords": ["React.js", "组件库", "云产品"],
+    "link": "https://cloudscape.design/"
+  },
+  {
+    "name": "TinyLD",
+    "description": "一个 JS 库，用来判断一段文字是什么语言（汉语、英语、日语等等）。",
+    "keywords": ["JavaScript", "语言识别"],
+    "link": "https://github.com/komodojp/tinyld"
+  }
+]

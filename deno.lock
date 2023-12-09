@@ -1,0 +1,15 @@
+{
+  "version": "3",
+  "packages": {
+    "specifiers": {
+      "npm:minisearch@^6.3.0": "npm:minisearch@6.3.0"
+    },
+    "npm": {
+      "minisearch@6.3.0": {
+        "integrity": "sha512-ihFnidEeU8iXzcVHy74dhkxh/dn8Dc08ERl0xwoMMGqp4+LvRSCgicb+zGqWthVokQKvCSxITlh3P08OzdTYCQ==",
+        "dependencies": {}
+      }
+    }
+  },
+  "remote": {}
+}

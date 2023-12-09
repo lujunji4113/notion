@@ -1,0 +1,5 @@
+{
+  "imports": {
+    "mini-search": "npm:minisearch@^6.3.0"
+  }
+}
