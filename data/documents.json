@@ -10,5 +10,59 @@
     "description": "一个 JS 库，用来判断一段文字是什么语言（汉语、英语、日语等等）。",
     "keywords": ["JavaScript", "语言识别"],
     "link": "https://github.com/komodojp/tinyld"
+  },
+  {
+    "name": "AI Image Captions",
+    "description": "一个在线工具，可以为图片生成介绍词，用于社交媒体，可以指定语言、风格和长度。",
+    "keywords": ["工具", "图片", "介绍词"],
+    "link": "https://felix.link/apps/captions"
+  },
+  {
+    "name": "IP 工具箱",
+    "description": "一个开源的本地网站，集成了 IP 相关的各种查询。",
+    "keywords": ["工具", "IP 查询"],
+    "link": "https://github.com/jason5ng32/MyIP/blob/main/README_CN.md"
+  },
+  {
+    "name": "33 字幕",
+    "description": "一个 Win/Mac 桌面软件，用于识别/制作音频和视频文件的双语字幕。",
+    "keywords": ["软件", "双语字幕"],
+    "link": "https://www.33subs.com/"
+  },
+  {
+    "name": "Ai Cute Wallpapers",
+    "description": "免费生成/下载 AI 壁纸。",
+    "keywords": ["工具", "图片", "AI 壁纸"],
+    "link": "https://aicutewallpapers.com/"
+  },
+  {
+    "name": "vue-draggable-plus",
+    "description": "Vue2 & Vue3 的拖拽组件。",
+    "keywords": ["Vue.js", "拖拽组件"],
+    "link": "https://github.com/Alfred-Skyblue/vue-draggable-plus"
+  },
+  {
+    "name": "浏览器的67个调试技巧",
+    "description": "浏览器的开发者工具怎么调试 JS 脚本，本文介绍67个高级技巧。",
+    "keywords": ["浏览器", "调试"],
+    "link": "https://alan.norbauer.com/articles/browser-debugging-tricks"
+  },
+  {
+    "name": "构建 Web 应用的四种方法",
+    "description": "本文总结了目前架设网站的四种方法：静态网站、云函数、服务器、容器。",
+    "keywords": ["Web", "应用构建"],
+    "link": "https://tomhummel.com/posts/four-web-apps/"
+  },
+  {
+    "name": "Photo to Anime",
+    "description": "这个网站可以将上传的图片动漫化，也可以通过文本生成动漫图片。",
+    "keywords": ["图片", "动漫化"],
+    "link": "https://photo-to-anime.com/"
+  },
+  {
+    "name": "SearchEmoji",
+    "description": "Emoji 搜索引擎，支持30种语言，代码开源。",
+    "keywords": ["图片", "动漫化"],
+    "link": "https://searchemoji.app/zh-hans"
   }
 ]
